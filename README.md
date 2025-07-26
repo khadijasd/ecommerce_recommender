@@ -60,5 +60,5 @@ product_id,product_name,category,brand,price
 
 
 ```bash
-#Install dependencies:
+## ⚙️Install dependencies:
 pip install -r requirements.txt
