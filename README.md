@@ -33,6 +33,7 @@ ecommerce_recommender/
 └── README.md # This file
 
 
+
 ---
 
 ## ⚙️ How It Works
@@ -55,7 +56,7 @@ product_id,product_name,category,brand,price
 4,Jeans,Clothing,Levis,45.00
 5,Hoodie,Clothing,Adidas,39.99
 
-
+---
 
 #Install dependencies:
 pip install -r requirements.txt
